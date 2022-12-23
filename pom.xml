@@ -19,7 +19,6 @@
 
         <!-- 2.1 contains the file.storage library -->
         <cherry.version>2.1.0</cherry.version>
-        <cherryofficepdf.version>1.0.0</cherryofficepdf.version>
 
         <junit.jupiter.version>5.9.1</junit.jupiter.version>
         <opensagres.version>2.0.3</opensagres.version>
